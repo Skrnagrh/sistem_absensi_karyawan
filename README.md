@@ -20,9 +20,9 @@ Sistem Absensi Karyawan adalah aplikasi berbasis web yang dikembangkan menggunak
 |:---:|:---:|
 | Halaman Data Posisi | Halaman Data Pengguna |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/9.png" alt="Tampilan 5" width="100%"> | |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/9.png" alt="Tampilan 5" width="50%"> |
 |:---:|:---:|
-| Halaman Profile Pengguna | |
+| Halaman Profile Pengguna |
 
 ## Tampilan Aplikasi User
 
