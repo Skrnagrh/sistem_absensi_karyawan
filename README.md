@@ -1,4 +1,4 @@
-# Sistem Absensi Karyawan
+# Sistem Data Absensi Karyawan (Sidak) Pada PT. Indah Samudera Tech Menggunakan Location Based Service (LBS)
 
 Sistem Absensi Karyawan adalah aplikasi berbasis web yang dikembangkan menggunakan [framework Laravel](https://laravel.com/) untuk manajemen absensi karyawan. Aplikasi ini memudahkan pengelolaan kehadiran dan pelaporan absensi.
 
