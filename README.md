@@ -2,19 +2,37 @@
 
 Sistem Absensi Karyawan adalah aplikasi berbasis web yang dikembangkan menggunakan [framework Laravel](https://laravel.com/) untuk manajemen absensi karyawan. Aplikasi ini memudahkan pengelolaan kehadiran dan pelaporan absensi.
 
-## Tampilan Aplikasi
+## Tampilan Aplikasi Admin
 
-| <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/1.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/2.png" alt="Tampilan 2" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/1.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/2.png" alt="Tampilan 2" width="70%"> |
 |:---:|:---:|
-| Halaman Utama | Halaman Data Anggota |
+| Halaman Utama | Halaman Login |
 
-| <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/3.png" alt="Tampilan 3" width="570%"> | <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/4.png" alt="Tampilan 4" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/3.png" alt="Tampilan 3" width="570%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/4.png" alt="Tampilan 4" width="70%"> |
 |:---:|:---:|
-| Halaman Data Buku | Halaman Data Peminjaman |
+| Halaman Dashboard | Halaman Data Jabatan |
 
-| <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/5.png" alt="Tampilan 5" width="70%"> | 
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/5.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/6.png" alt="Tampilan 2" width="70%"> |
+|:---:|:---:|
+| Halaman Data Karyawan | Halaman Data Absensi |
+
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/7.png" alt="Tampilan 3" width="570%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/8.png" alt="Tampilan 4" width="70%"> |
+|:---:|:---:|
+| Halaman Data Posisi | Halaman Data Pengguna |
+
+| <img src="https://github.com/Skrnagrh/delphi_aplikasi_perpustakaan/raw/main/1.Tampilan/9.png" alt="Tampilan 5" width="70%"> | 
 |:---:|
-| Cara Konfigurasi Database |
+| Halaman Profile Pengguna |
+
+## Tampilan Aplikasi User
+
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/10.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/11.png" alt="Tampilan 2" width="70%"> |
+|:---:|:---:|
+| Halaman Dashboard | Halaman Data Jabatan |
+
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/12.png" alt="Tampilan 3" width="570%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/13.png" alt="Tampilan 4" width="70%"> |
+|:---:|:---:|
+| Halaman Data Karyawan | Halaman Data Absensi |
 
 ## Fitur
 
