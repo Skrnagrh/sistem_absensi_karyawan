@@ -8,29 +8,29 @@ Sistem Absensi Karyawan adalah aplikasi berbasis web yang dikembangkan menggunak
 |:---:|:---:|
 | Halaman Utama | Halaman Login |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/3.png" alt="Tampilan 3" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/4.png" alt="Tampilan 4" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/3.png" alt="Tampilan 3" width="100%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/4.png" alt="Tampilan 4" width="100%"> |
 |:---:|:---:|
 | Halaman Dashboard | Halaman Data Jabatan |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/5.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/6.png" alt="Tampilan 2" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/5.png" alt="Tampilan 1" width="100%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/6.png" alt="Tampilan 2" width="100%"> |
 |:---:|:---:|
 | Halaman Data Karyawan | Halaman Data Absensi |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/7.png" alt="Tampilan 3" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/8.png" alt="Tampilan 4" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/7.png" alt="Tampilan 3" width="100%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/8.png" alt="Tampilan 4" width="100%"> |
 |:---:|:---:|
 | Halaman Data Posisi | Halaman Data Pengguna |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/9.png" alt="Tampilan 5" width="70%"> | 
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/9.png" alt="Tampilan 5" width="100%"> | 
 |:---:|
 | Halaman Profile Pengguna |
 
 ## Tampilan Aplikasi User
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/10.png" alt="Tampilan 1" width="70%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/11.png" alt="Tampilan 2" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/10.png" alt="Tampilan 1" width="100%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/11.png" alt="Tampilan 2" width="100%"> |
 |:---:|:---:|
 | Halaman Dashboard | Halaman Data Jabatan |
 
-| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/12.png" alt="Tampilan 3" width="570%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/13.png" alt="Tampilan 4" width="70%"> |
+| <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/12.png" alt="Tampilan 3" width="100%"> | <img src="https://github.com/Skrnagrh/sistem_absensi_karyawan/raw/main/public/tampilan/13.png" alt="Tampilan 4" width="100%"> |
 |:---:|:---:|
 | Halaman Data Karyawan | Halaman Data Absensi |
 
