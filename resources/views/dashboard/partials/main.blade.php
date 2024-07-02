@@ -5,7 +5,7 @@
     <!-- <meta charset="UTF-8"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Sidak IST | @yield('page')</title>
+    <title>Sistem Absensi | @yield('page')</title>
     <link rel="icon" type="image/x-icon" href="/logo/icon.png" />
 
     <!-- Tell the browser to be responsive to screen width -->
@@ -110,7 +110,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-    
+
 </head>
 <!-- sidebar-collapse -->
 
@@ -367,34 +367,7 @@
 
     @yield('script')
 
-    {{-- @if (count($errors)>0)
-    @foreach ($errors->all() as $error)
-    <script>
-        toastr.error("{{ $error }}");
-    </script>
-    @endforeach
-    @endif
-    @if (Session::has('success'))
-    <script>
-        toastr.success("{{ Session('success') }}");
-    </script>
-    @endif
-    @if (Session::has('warning'))
-    <script>
-        toastr.warning("{{ Session('warning') }}");
-    </script>
-    @endif
-    @if (Session::has('info'))
-    <script>
-        toastr.info("{{ Session('info') }}");
-    </script>
-    @endif
-    @if (Session::has('error'))
-    <script>
-        toastr.error("{{ Session('error') }}");
-    </script>
-    @endif --}}
-
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
     </script>

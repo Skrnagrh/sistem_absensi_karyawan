@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <a href="" class="brand-link text-decoration-none">
         <img src="/logo/icon.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3">
-        <span class="brand-text font-weight-light text-uppercase"><strong>Sidak IST</strong></span>
+        <span class="brand-text font-weight-light text-uppercase"><strong>Sistem Absensi</strong></span>
     </a>
 
     <div class="sidebar">

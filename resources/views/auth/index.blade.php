@@ -8,8 +8,8 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Sidak IST | Login</title>
-
+    <title>Sistem Absensi | Login</title>
+ x
     <meta name="description" content="" />
     <link rel="icon" type="image/x-icon" href="/logo/icon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -30,7 +30,6 @@
         body {
             background:
                 linear-gradient(rgba(255, 255, 255, 0.384), rgba(53, 196, 236, 0.767), rgba(255, 255, 255, 0.384)),
-                /* linear-gradient(rgba(53, 196, 236, 0.5), rgba(255, 255, 255, 0.384)), */
                 url('/logo/background.png') no-repeat;
         }
     </style>
@@ -45,7 +44,7 @@
                         <div class="app-brand justify-content-center" style="margin-bottom: -5px">
                             <a href="/login" class="app-brand-link">
                                 <span class="app-brand-logo">
-                                    <img src="/logo/logo2.png" width="200px">
+                                    <img src="/logo/icon.png" width="200px">
                                 </span>
                             </a>
                         </div>
